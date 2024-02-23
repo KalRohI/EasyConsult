@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "Welcome to Easy Consult",
+    "paragraph": "Your Gateway to Effortless Healthcare!! Unlocking Seamless Healthcare Consultations"
+  },
+  "About": {
+    "paragraph": "At Easy Consult, we've reimagined the way doctors and patients connect, making healthcare consultations a breeze. Our platform is designed with you in mind, whether you're a dedicated medical professional or seeking expert medical advice. Say goodbye to long waiting times, and hello to immediate, convenient consultations. With our secure and user-friendly application, you can connect with trusted doctors from the comfort of your home. Experience a new era of healthcare where appointments are a click away, and your health is just a conversation apart. Join us on a journey to make healthcare consultation easy, accessible, and effective for all. Your well-being is our priority.",
+    "Why": [
+      "Instant Access",
+      "Effortless Scheduling",
+      "Quality Care",
+      "Secure and Confidential"
+    ],
+    "Why2": [
+      "User-Friendly Interface",
+      "Reduced Waiting Times",
+      "Flexible Consultation Options",
+      "Cost Effective"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Image Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-user-md",
+      "name": "Primary Care Consultations",
+      "text": "Access general practitioners for routine health concerns and check-ups."
+    },
+    {
+      "icon": "fa fa-user-secret",
+      "name": "Specialist Consultations",
+      "text": "Connect with healthcare specialists for expert advice on specific medical conditions or concerns."
+    },
+    {
+      "icon": "fa fa-hospital-o",
+      "name": "Emergency Consultations",
+      "text": "Provide immediate access to emergency services and on-call doctors for urgent medical issues."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Medication Management",
+      "text": "Assist in managing and refilling prescriptions, ensuring patients have access to the medications they need."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Telemedicine for Rural Areas",
+      "text": "Bridge the gap in healthcare access by catering to patients in rural or underserved areas, connecting them with medical experts."
+    },
+    {
+      "icon": "fa fa-user-plus",
+      "name": "Senior Care",
+      "text": "Address the unique healthcare needs of the elderly, including geriatric consultations and care planning."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Easy Consult has been a game-changer for me. I can now connect with my trusted doctor from home, saving time and avoiding the hassle of clinic visits. The platform is user-friendly, and the doctors are professional and caring. It's a healthcare solution that truly puts patients first.\"",
+      "name": "Sarah L., Satisfied Patient"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I can't thank Easy Consult enough for the prompt emergency support they provided during a health crisis. The on-call doctor's expertise and guidance were invaluable. This service truly cares about patients.\"",
+      "name": "Michael R., Emergency Consultation User"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"As a healthcare provider on Easy Consult, I've found the platform to be efficient and secure. It allows me to connect with patients in need, and the user-friendly interface simplifies the entire process. Highly recommended!\"",
+      "name": "Dr. Elena G., Healthcare Provider"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Mukesh.jpg",
+      "name": "Mukesh Pabbathi",
+      "job": ""
+    },
+    {
+      "img": "img/team/Mahith.jpg",
+      "name": "Murari Mahith",
+      "job": ""
+    },
+    {
+      "img": "img/team/Tanmayi.jpg",
+      "name": "Tanmayi Kasturi",
+      "job": ""
+    },
+    {
+      "img": "img/team/Rohith.jpg",
+      "name": "Rohith Kalwa",
+      "job": ""
+    },
+    {
+      "img": "img/team/Varshini.jpg",
+      "name": "Varshini Palvai",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "Gainesville",
+    "phone": "+1 123 456 1234",
+    "email": "easyconsult@company.com",
+    "github": "https://github.com/mukeshpabbathi",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Chat Consultations",
+      "text": "Instantly connect with healthcare professionals through text-based chats for quick advice and follow-up."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Voice Consultations",
+      "text": "Have real-time voice calls with healthcare experts for immediate medical consultations."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Medical Records Management",
+      "text": "Easily store and access your medical records and health history in one secure location."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Consultation",
+      "text": "Effortlessly schedule video, voice, or chat consultations with preferred healthcare providers."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "easyconsult",
+  "version": "1.0.0",
+  "description": "digital health course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "startDev": "nodemon ./src/index.js"
+  },
+  "author": "Mahith Murari and Group22",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.12.1 <19.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "socket.io": "^4.7.2"
+  }
+}
